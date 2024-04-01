@@ -24,7 +24,7 @@ export const useAppStore = defineStore('appStore', () => {
                           article: 'Кафе и рестораны',
                           articleColor: 'rgb(56, 79, 172)',
                           sum: 4350,
-                          icon: '/src/icons/restaurant.svg',
+                          icon: '/finance/src/icons/restaurant.svg',
                           id: 13242352,
                           days:
                           [
@@ -44,7 +44,7 @@ export const useAppStore = defineStore('appStore', () => {
                           article: 'Магазины',
                           articleColor: 'rgb(0, 175, 200)',
                           sum: 1295,
-                          icon: '/src/icons/shoppingCart.svg',
+                          icon: '/finance/src/icons/shoppingCart.svg',
                           id: 3652652,
                           days:
                           [
@@ -77,7 +77,7 @@ export const useAppStore = defineStore('appStore', () => {
                           article: 'ЖКХ',
                           articleColor: 'rgb(241 71 241)',
                           sum: 5000,
-                          icon: '/src/icons/house.svg',
+                          icon: '/finance/src/icons/house.svg',
                           id: 4679268972,
                           days:
                           [
@@ -92,7 +92,7 @@ export const useAppStore = defineStore('appStore', () => {
                           article: 'Красота и здоровье',
                           articleColor: 'green',
                           sum: 1250,
-                          icon: '/src/icons/health.svg',
+                          icon: '/finance/src/icons/health.svg',
                           id: 7923569392,
                           days:
                           [
@@ -111,7 +111,7 @@ export const useAppStore = defineStore('appStore', () => {
                         {
                           article: 'Транспорт',
                           articleColor: 'rgb(240, 160, 53)',
-                          icon: '/src/icons/transports.svg',
+                          icon: '/finance/src/icons/transports.svg',
                           id: 324287597246,
                           sum: 5070,
                           days:
