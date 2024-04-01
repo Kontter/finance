@@ -10,6 +10,7 @@ export default defineConfig({
     vue(),
     svgLoader()
   ],
+  base: "/finance/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
